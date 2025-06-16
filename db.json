@@ -2,10 +2,10 @@
   "clientes": [
     {
       "id": 1,
-      "name": "John Smith",
+      "name": "Adilson Palhares",
       "phones": ["+1-555-1234", "+1-555-5678"],
       "salesRepresentative": "Emily Johnson",
-      "email": "john.smith@example.com",
+      "email": "adilson.palhares@targetsistemas.com.br",
       "lastPurchaseDate": "2025-05-20",
       "nextVisitDate": "2025-06-25"
     },
