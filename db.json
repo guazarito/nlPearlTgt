@@ -1,1 +1,23 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "phones": ["+1-555-1234", "+1-555-5678"],
+      "salesRepresentative": "Emily Johnson",
+      "email": "john.smith@example.com",
+      "lastPurchaseDate": "2025-05-20",
+      "nextVisitDate": "2025-06-25"
+    },
+    {
+      "id": 2,
+      "name": "Maria Garcia",
+      "phones": ["+34-600-123-456"],
+      "salesRepresentative": "Carlos Ruiz",
+      "email": "maria.garcia@example.es",
+      "lastPurchaseDate": "2025-06-10",
+      "nextVisitDate": "2025-07-01"
+    }
+  ]
 
+}
