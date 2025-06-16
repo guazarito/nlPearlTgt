@@ -1,31 +1,23 @@
 {
-  "posts": [
+  "clientes": [
     {
       "id": 1,
-      "title": "Post 1"
+      "name": "John Smith",
+      "phones": ["+1-555-1234", "+1-555-5678"],
+      "salesRepresentative": "Emily Johnson",
+      "email": "john.smith@example.com",
+      "lastPurchaseDate": "2025-05-20",
+      "nextVisitDate": "2025-06-25"
     },
     {
       "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "name": "Maria Garcia",
+      "phones": ["+34-600-123-456"],
+      "salesRepresentative": "Carlos Ruiz",
+      "email": "maria.garcia@example.es",
+      "lastPurchaseDate": "2025-06-10",
+      "nextVisitDate": "2025-07-01"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
+
 }
